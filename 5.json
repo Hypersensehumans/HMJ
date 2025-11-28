@@ -1,0 +1,24 @@
+{
+"external_url":"https://hypersensehuman.io/GeneratePFP/HM_0005.html",
+"description":"HSH is the first interactive anime NFT project on Ethereum. 8888 total pieces in this genesis collection. Come find all your SENSES in the Hypersverse by joining our [Discord](https://discord.gg/HyperSenseHumans).",
+"animation_url":"https://hypersensehuman.io/GeneratePFP/HM_0005.html",
+"image":"https://hypersensehuman.io/image/HM_0005.gif",
+"interactive_nft":
+{
+"version":"0.0.9",
+"code_uri":"https://hypersensehuman.io/GeneratePFP/HM_0005.html"
+},
+"script_type":"p5js",
+"traits":[
+		{"trait_type":"Background","value":"Blue Galaxy"},
+		{"trait_type":"Hair","value":"Viking Helmet"},
+		{"trait_type":"Eyes","value":"Viking Eyes"},
+		{"trait_type":"Mouth","value":"Blue Tattoo"},
+		{"trait_type":"Body","value":"Regular"},
+		{"trait_type":"Clothes","value":"Dragon Armour"},
+		{"trait_type":"Jacket","value":"Winter Armour"}
+	],
+"generator_url":"https://hypersensehuman.io/GeneratePFP/HM_0005.html",
+"license":"NFT License",
+"name":"HSH-HM#0005"
+}
